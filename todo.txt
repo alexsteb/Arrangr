@@ -1,0 +1,83 @@
+TODO BIG:
+
+GUI:
+-preset system
+-output window
+	-Graphic output of midi
+-export chords text
+
+midi_split:
+-get rhythm group splits and randomize who's playing
+-integrate back melody
+-maybe create more chord_track variants?
+-error check everything
+
+
+midi_combine:
+-change octaves function
+-remove tones acc. to rules (e.g. Piano)
+
+
+-Create remove tones system that combines both..
+-Create arpeggio system that works for both split and combine instruments!
+
+-Export as guitar pro file with multiple instruments + non-guitar instruments
+
+
+TODO small:
+GUI:
+-After Guitar Settings, don't allow selection of arpeggio and STT anymore
+-Checkboxes at selected tracks should be set if already once imported
+-Selection what instruments plays the melody (only this then + changing the octaves)
+-Choosing melody track doesn't work
+-After changing Guitar settings, instrument becomes piano..
+
+Import:
+-gameofthrones orchestra -> Apparently the very first track has information
+
+GuitarPro-Export:
+-Tuning umdrehen (besonders Ukulele)
+-There are still some red measures (with pirates.mid)
+-Create trioles out of 16-16-(16)-16
+-Fill up tones, if there is only a 16th or 8th pause
+-Difficulty level -> Removing certain tones that are difficult to reach / removing fret changes if they can be easily replaced?
+-Red measures and weird rhythm with Hook - Flight To Neve.mid
+-Option to create chords
+-Twice export has error
+-Hook lädt jetzt gar nicht
+
+midi_split:
+-Apply tone lists for timpani etc. (filter)
+-chord_track function does not consider multiple tones per instrument
+
+##################
+PC Speaker / Ringtone - 1 Square #Immer mit Warnung
+Gameboy / NES - 2 Square, 1 Saw
+C64 - 1 Square, 1 Saw, 1 Ocarina
+---
+Choir - SATB
+---
+Woodwind Quartet - fl, ob, cl, bsn
+Woodwind Quintet - fl, ob, cl, bsn, hn
+Saxophone Quartet - SATB
+---
+Brass Trio - tpt, hn, tbn
+Brass Quartet - 2 tpts, 2 tbns
+Brass Quintet - 2 tpts, hn, tbn, tuba
+Brass Sextet - 2 tpts, hn, tbn, euph(tuba), tuba
+Horn Quartet - 4 horns
+---
+Piano Trio - pno,vln,vc
+String Trio - vln, vla, vc
+Piano Quartet - pno,vln,vla,vc
+String Quartet - 2 vlns,vla,vc
+Piano Quintet - 2 vlns, vla, vc, pno
+---
+Baroque Trio - Harpsichord (4 tones), 2 violins
+---
+Chamber Orchestra - 2 fl, 2 ob, 2 cl, 2 bsn, 2 hn, 2 tpt, timpani, 2 vln, vla, vc, cb
+Symphony Orchestra - fl,picc,2 ob,2 cl,2 bsn, 4hrn, 3tpt,3tbn,tuba,timpani,vvvcc
+---
+Japanese Trio - Koto, Shamisen, Shakuhachi
+
+
