@@ -5,6 +5,8 @@ This program will then attempt to create an arrangement using all defined instru
 
 This tool was tested on Windows using Python 2.7.
 
+Start by running MidiMagic.py
+
 Necessary packages are:
 - Tkinter (GUI interface)
 - mido (reading midi files)
