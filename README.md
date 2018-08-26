@@ -6,6 +6,7 @@ This program will then attempt to create an arrangement using all defined instru
 This tool was tested on Windows using Python 2.7.
 
 Start by running MidiMagic.py
+Check MidiMagic.py for uncommented code that reveals further functions not yet integrated into the GUI environment.
 
 Necessary packages are:
 - Tkinter (GUI interface)
